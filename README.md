@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AmitSKumar
+- 👋 Hi, I’m Amit Singh
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning web api
-- 💞️ I’m looking to collaborate on Angular
+- 🌱 I’m currently learning node
+- 💞️ I’m looking to collaborate on Angular or  React
 - 📫 you can reach me on amitsinghbxr@gmail.com
 
 <!---
