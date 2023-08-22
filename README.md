@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amit Singh
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning node
-- 💞️ I’m looking to collaborate on Angular or  React
+- 🌱 I’m currently learning IOS development
+- 💞️ I’m looking to collaborate on Angular or  React and IOS
 - 📫 you can reach me on amitsinghbxr@gmail.com
 
 <!---
